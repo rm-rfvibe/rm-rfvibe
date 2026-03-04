@@ -1,14 +1,5 @@
-# Привет!
-
----
-
-### 👨‍💻 Обо мне
-
-Начинающий DevOps-инженер. Иду в направлении автоматизации и надёжности инфраструктуры: понимаю, как выстраивать CI/CD, зачем контейнеризация и как код решает рутинные задачи. Основной инструмент — **Python**: скрипты, автоматизация, поддержка там, где готовые решения избыточны.
-
-Прошёл курс на Я.Практикуме по сопровождению ПО (Docker, Kubernetes, CI/CD), параллельно учусь в Нетологии (Fullstack Python + DevOps). Есть сертификация Astra Linux. Ищу стажировку, чтобы применять знания на реальных задачах.
-
-**Контакты:** [Telegram](https://t.me/rm_rfvibe)
+# Привет! Я Крис!
+[Telegram](https://t.me/rm_rfvibe)
 
 ---
 
@@ -36,18 +27,6 @@
   *Сервисы: Node.js, Express, LevelDB.*
 
 - **📚 Учебные проекты** — [py-homeworks-netology](https://github.com/rm-rfvibe/py-homeworks-netology-0-1) (Python, в т.ч. «Программа Бухгалтерия»), [django-homeworks-netology](https://github.com/rm-rfvibe/django-homeworks-netology-0-1) (Django), чат-бот и бот-органайзер в рамках Fullstack Python.
-
----
-
-### 📚 Образование
-
-| Где | Что |
-|-----|-----|
-| **Я.Практикум** | Курс «Сопровождение и обслуживание ПО компьютерных систем» — Git, CI/CD, Docker, Kubernetes, логирование, мониторинг, безопасность. |
-| **Нетология** | [Fullstack Python](https://netology.ru/programs/fullstack-python-dev) и [DevOps-инженер с нуля](https://netology.ru/programs/fullstack-devops) — прохожу параллельно. |
-| **Astra Linux** | Пройдена сертификация. |
-
----
 
 ### 📊 Статистика
 
