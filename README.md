@@ -32,4 +32,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rm-rfvibe&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rm-rfvibe&layout=compact&theme=default)
+**Языки по репозиториям:** Python · Java · JavaScript · HTML · CSS
